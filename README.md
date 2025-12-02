@@ -61,7 +61,7 @@ This project helped me enhance my skills in:
 | Frontend Framework | React.js |
 | UI Library | Material-UI (MUI) |
 | State Management | React Context API |
-| Styling | CSS / MUI SX Styling |
+| Styling | Tailwindcss / MUI SX Styling | 
 | Routing | React Router DOM |
 | API Handling | Axios |
 | Deployment | Vercel |
