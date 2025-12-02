@@ -77,7 +77,7 @@ This project helped me enhance my skills in:
 git clone https://github.com/Dipanshi765/RR-Ecom-App
 
 # Navigate into the folder
-cd RR-Ecom-App
+cd ecommerce-application
 
 # Install dependencies
 npm install
