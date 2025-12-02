@@ -38,5 +38,5 @@ This project includes **user authentication, product listings, cart system, chec
 
 ---
 
-## 📌 Project Structure Overview
+
 
