@@ -47,7 +47,6 @@ This project helped me enhance my skills in:
 
 ### 💳 Checkout Flow
 - Order summary view
-- Payment gateway integration (test checkout)
 - Clean and user-friendly checkout UI
 
 ### 📱 Full Responsiveness
