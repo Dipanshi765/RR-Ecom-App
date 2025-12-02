@@ -22,6 +22,7 @@ It is designed for real business usage and includes features like **responsive d
 This project helped me enhance my skills in:
 - Production-level **React architecture**
 - **Reusable components & modular folder structure**
+- **TailwindCSS for fast and scalable styling**
 - **Context API state management**
 - **Material UI theming & responsive UI**
 - **Routing & conditional navigation**
@@ -43,7 +44,6 @@ This project helped me enhance my skills in:
 - Add items to cart
 - Increase / decrease product quantity
 - Remove items
-- Real-time price & quantity updates
 
 ### 💳 Checkout Flow
 - Order summary view
