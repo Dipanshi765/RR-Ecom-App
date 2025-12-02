@@ -28,10 +28,10 @@ This project includes **user authentication, product listings, cart system, chec
 
 | Category | Technology |
 |---------|-------------|
-| Frontend | React.js | Tailwindcss |
+| Frontend | React.js | 
 | Component Library | Material-UI (MUI) |
 | State Management | Context API |
-| Styling | CSS / MUI Styling System |
+| Styling | Tailwindcss / MUI Styling System |
 | Deployment | Vercel |
 | Tools | React Router, Axios |
 
