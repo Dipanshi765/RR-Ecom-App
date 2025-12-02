@@ -1,16 +1,42 @@
-# React + Vite
+# 🛍️ RR E-Commerce Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive and modern **E-Commerce web application** built using **React, Material UI, React Context API**, and **Stripe** (or Razorpay if applicable) for seamless user shopping experience.  
+This project includes **user authentication, product listings, cart system, checkout flow**, and a **clean UI for product browsing**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
+🔗 **Live Website:** https://rr-ecom-app.vercel.app/  
+🔗 **GitHub Repository:** https://github.com/Dipanshi765/RR-Ecom-App
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🧾 **Full E-Commerce Flow** — Browse → Add to Cart → Checkout → Payment
+- 🔐 **User Authentication** — Login / Signup
+- 🛍️ **Product Filtering & Category-Based Listing**
+- 🛒 **Add to Cart, Increase/Decrease Quantity, Remove Items**
+- 📱 **Fully Responsive UI** (Mobile + Tablet + Desktop)
+- 💳 **Payment Gateway Integration**
+- 🔥 **Context API for State Management**
+- 🎨 **Material UI Components for Clean Look**
+- ⚡ **Fast & Hyper-Optimized using React + Vite (if applicable)**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technology |
+|---------|-------------|
+| Frontend | React.js |
+| Component Library | Material-UI (MUI) |
+| State Management | Context API |
+| Styling | CSS / MUI Styling System |
+| Deployment | Vercel |
+| Tools | React Router, Axios |
+
+---
+
+## 📌 Project Structure Overview
+
