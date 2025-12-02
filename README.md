@@ -70,4 +70,19 @@ This project helped me enhance my skills in:
 ---
 
 
+## ▶️ Installation & Local Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/Dipanshi765/RR-Ecom-App
+
+# Navigate into the folder
+cd RR-Ecom-App
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
 
