@@ -18,7 +18,6 @@ This project includes **user authentication, product listings, cart system, chec
 - 🛍️ **Product Filtering & Category-Based Listing**
 - 🛒 **Add to Cart, Increase/Decrease Quantity, Remove Items**
 - 📱 **Fully Responsive UI** (Mobile + Tablet + Desktop)
-- 💳 **Payment Gateway Integration**
 - 🔥 **Context API for State Management**
 - 🎨 **Material UI Components for Clean Look**
 - ⚡ **Fast & Hyper-Optimized using React + Vite (if applicable)**
@@ -29,7 +28,7 @@ This project includes **user authentication, product listings, cart system, chec
 
 | Category | Technology |
 |---------|-------------|
-| Frontend | React.js |
+| Frontend | React.js | Tailwindcss |
 | Component Library | Material-UI (MUI) |
 | State Management | Context API |
 | Styling | CSS / MUI Styling System |
